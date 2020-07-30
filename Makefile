@@ -1,3 +1,3 @@
 check-version:
-	docker build --pull --tag ai-go -f docker/Dockerfile .
-	docker run --rm ai-go
+	docker build --pull --tag tensorflow-go-version -f docker/Dockerfile .
+	docker run --rm tensorflow-go-version
