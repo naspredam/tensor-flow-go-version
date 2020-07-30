@@ -7,6 +7,8 @@ This project is to have a go working with tensorflow.
 
 It was followed up the documentation https://www.tensorflow.org/install/lang_go
 
+**Note:** This image does not include libcuda.
+
 ## Local execution
 
 On local, we have to install the tensor for C and also C, and then we can just to:
